@@ -1,0 +1,110 @@
+.services{
+    background: url("../img/femme.jpg") no-repeat center/cover  fixed  ;
+
+    text-align: center;
+    color:white;
+}
+.jumbotron{
+    margin-bottom: 0px;
+}
+.vidio{
+    padding: 25px;
+    background: url("../img/pee.jpg") no-repeat center/cover  fixed  ;
+color: cornsilk;
+}
+.realisation{
+    text-align: center !important;
+}
+.color{
+    background-color: rgb(237, 239, 243);
+}
+.grid{
+    display: grid;
+    text-align: center;
+    grid-template-columns: 30% 30% 30% ;
+    padding: 50PX;
+    margin-left: 40PX;
+    justify-content: space-around;
+    grid-gap: 30px;
+}
+.forio{
+   
+
+}
+.btn 
+
+}
+.nav{
+    background-color: rgb(46, 40, 40);
+}
+.mybtn{
+    margin-left: 40%;
+}
+.h11{
+    padding: 20PX;
+    max-width: 100%;
+    text-align: center;
+    color: rgb(8, 8, 8);
+ 
+}
+.h22{
+   
+    padding: 20PX;
+    max-width: 100%;
+    text-align: center;
+    color:black
+
+}
+.tesparagraph{
+    background: url("../img/pee.jpg") no-repeat center/cover  fixed  ;
+    text-align: center;
+    color: white;
+    height: 50vh;
+
+
+}
+.client{
+   
+    display: grid;
+    text-align: center;
+    grid-template-columns: auto auto auto auto;
+    padding: 50PX;
+    margin-left: 40PX;
+    justify-content: space-around;
+    grid-gap: 5px;
+
+}
+.equipe{
+    background: url("../img/clavi.jpg") no-repeat center/cover  fixed  ;
+    text-align: center;
+    color: white;
+
+}
+.himage{
+
+    display: grid;
+    text-align: center;
+    color: white;
+    grid-template-columns: 30% 30% 30% ;
+    padding: 0PX;
+    margin-left: 40PX;
+    grid-gap: 30px;
+
+}
+.carousel {
+margin: 0px;
+}
+
+.line{
+    width: 200px;
+    place-self: center;
+    margin-top:0%;
+    border-width: 6PX;
+    border-bottom-width: 10PX;
+    border-color: black;
+  
+}
+.Pricing{
+   
+   
+}
